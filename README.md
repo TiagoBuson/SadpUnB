@@ -17,3 +17,5 @@ Para inserir os dados de base, pode se rodar os arquivos sql:
 'departamentos.sql', 'disciplinas.sql', 'inserts.sql', 'professores.sql' e 'turmas.sql'
 
 Depois disso é só rodar o arquivo executável que está dentro da pasta /dist, e utilizar o sistema normalmente.
+
+Link do Vídeo de apresentação: https://youtu.be/_yncoxBqVbw
